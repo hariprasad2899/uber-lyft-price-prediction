@@ -41,13 +41,9 @@ Note: `tkinter` is usually included with Python installations. If not available,
 ## 📁 Project Structure
 
 ```
-SDAI Project/
-│
-├── Uber and lyft Price Prediction.ipynb    # Main Jupyter notebook with analysis and models
-├── cab_rides.csv                           # Dataset file (ensure this is in the same directory)
-├── Code_explanation.docx                   # Documentation
-├── Project PPT.pdf                         # Project presentation
-└── README.md                               # This file
+Uber and Lyft Price Prediction/
+├── Uber and lyft Price Prediction.ipynb    # Main Jupyter notebook with analysis and models                         # Project presentation
+README.md                               # This file
 ```
 
 ## 📊 Dataset
